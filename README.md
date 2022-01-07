@@ -5,11 +5,11 @@
   <a href="https://www.linkedin.com/in/%ED%9B%88%ED%9D%AC-%EA%B9%80//" target="_blank"><img src="https://img.shields.io/badge/JerryKim1023-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 <p>
-  Hello I am a new developer specializing in machine learning.<br/>
-  We are working on it based on Python DJango.<br/><br/>
-  I enjoy squash, Baduk and computer game. <br/>
-  My goal is to develop services that will make life easier.. :반짝임: <br/><br/>
+  Hello I am a new developer specializing in Python DJang & machine learning.<br/>
+  <br/>
+  My goal is to develop from nothing to things which makes life better! :반짝임: <br/><br/>
 </p>
+  <br>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JerryKim1023&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryKim1023&layout=compact&hide_border=true&theme=Jasper)
 ## Platforms & Languages
 <p>
