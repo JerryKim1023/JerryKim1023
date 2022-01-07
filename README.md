@@ -7,7 +7,7 @@
 <p>
   Hello I am a new developer specializing in Python DJang & machine learning.<br/>
   <br/>
-  My goal is to develop from nothing to things which makes life better! :반짝임: <br/><br/>
+  My goal is to develop from nothing to things which makes life better! <br/><br/>
 </p>
 
   
