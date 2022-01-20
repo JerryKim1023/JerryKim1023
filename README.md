@@ -1,6 +1,6 @@
 <div align=center>
   <p>
-  <a href="https://github.com/JerryKim1023/TIL" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://velog.io/@ecec1023" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:JerryKim1023@gmail.com" target="_blank"><img src="https://img.shields.io/badge/JerryKim1023@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/%EC%A7%80%EC%9A%A9-%EA%B9%80-02697521b/" target="_blank"><img src="https://img.shields.io/badge/JerryKim1023-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
