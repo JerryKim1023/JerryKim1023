@@ -9,6 +9,7 @@
   Hello I am a new developer specializing in Python DJango & machine learning.<br/>
   <br/>
   My goal is to develop from nothing to things which makes life better! <br/><br/>
+  "Life is too short, we need python." (인생은 너무 짧으니 파이썬이 필요해.)
 </p>
 
   
