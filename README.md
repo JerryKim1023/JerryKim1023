@@ -6,10 +6,11 @@
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJerryKim1023&count_bg=%2379C83D&title_bg=%23E1D71F&icon=django.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 <p>
-  Hello I am a new developer specializing in Python DJango & machine learning.<br/>
+My goal is to develop from nothing to things which makes life better! <br/>
   <br/>
-  My goal is to develop from nothing to things which makes life better! <br/><br/>
-  "Life is too short, we need python." (인생은 너무 짧으니 파이썬이 필요해.)
+  "Time is flying never to return"  -Vergilius- (한 번 지나간 시간은 돌아오지 않는다 - 베르길리우스 -)<br/><br/>
+  "Life is too short, we need python" (인생은 너무 짧으니 파이썬이 필요해)<br/>
+  
 </p>
 
   
